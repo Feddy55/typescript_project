@@ -1,0 +1,8 @@
+# Basic Python Program
+
+# Get user input
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+
+# Output a greeting message
+print(f"Hello, {name}! You are {age} years old.")
